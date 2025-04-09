@@ -1,0 +1,4 @@
+target/
+test-output/
+reports/
+debug.log
